@@ -149,6 +149,9 @@
   margin: auto;
   padding-top: 50%;
 }
+.our-work .items .opacity .discription img {
+  padding: 20px;
+}
 .our-work .item-1 {
   height: 50vh;
   background: url(../images/Layer17.jpg);
