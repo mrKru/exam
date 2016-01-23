@@ -202,7 +202,6 @@
   margin: 40px 0px;
 }
 .get-in-touch .container .form-group .inputs .form-control:focus {
-  border: none;
   outline: 0;
   box-shadow: none;
 }
